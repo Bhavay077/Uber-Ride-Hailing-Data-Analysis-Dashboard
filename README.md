@@ -1,8 +1,3 @@
-<img width="1167" height="652" alt="4" src="https://github.com/user-attachments/assets/68023a59-7fc6-4b67-9b9f-0329520a5aed" />
-<img width="1162" height="648" alt="3" src="https://github.com/user-attachments/assets/14dde5ed-98e0-4249-abd9-dbf7b24b847f" />
-<img width="1158" height="652" alt="5" src="https://github.com/user-attachments/assets/8e9c3731-b447-4108-ac93-b09f382bd8e4" />
-<img width="1162" height="657" alt="2" src="https://github.com/user-attachments/assets/c1928e71-8105-47a0-ac64-d7be589fddad" />
-<img width="1161" height="670" alt="1" src="https://github.com/user-attachments/assets/a424b396-9185-4e5e-9f61-71d048dc15f5" />
 PROJECT OVERVIEW
 
 Business Health (Overview)
@@ -55,6 +50,7 @@ Lowest Demand: February saw a significant dip to 11,840 bookings before recoveri
 
 Cross-Functional KPIs: Highlights the relationship between Average Income per KM ($20.6) and the Total Annual Revenue ($52M).
 
+<img width="1161" height="670" alt="1" src="https://github.com/user-attachments/assets/a424b396-9185-4e5e-9f61-71d048dc15f5" />
 Financial Insights
 1. Revenue by Payment Channel
 Digital Dominance: Over 67% of revenue is processed through digital channels (UPI, Uber Wallet, Credit/Debit cards), reducing the overhead costs associated with cash handling.
@@ -70,6 +66,7 @@ Min Revenue: $4.0M (February)
 
 Average Monthly Target: Consistent performance above the $4.2M mark for 10 out of 12 months.
 
+<img width="1162" height="657" alt="2" src="https://github.com/user-attachments/assets/c1928e71-8105-47a0-ac64-d7be589fddad" />
 Customer & Driver Rating Analysis
 The Rating Dashboard focuses on service quality and user satisfaction across the entire Uber ecosystem. It provides a comparative analysis of how customers perceive the service versus how drivers rate their experience.
 
@@ -89,7 +86,7 @@ Top Performer: Go Sedan holds the highest customer satisfaction score at 4.78.
 Segment Consistency: Across all categories (Uber XL, Bike, Premier, etc.), customer ratings remain high and stable, ranging from 4.71 to 4.78.
 
 Driver Sentiment Gap: Driver ratings are consistently lower than customer ratings (averaging ~4.30), indicating potential areas for improving the driver partner experience or app interface for partners.
-
+<img width="1162" height="648" alt="3" src="https://github.com/user-attachments/assets/14dde5ed-98e0-4249-abd9-dbf7b24b847f" />
 2. Monthly Rating Trends
 The area charts reveal fluctuations in satisfaction over the year:
 
@@ -100,7 +97,7 @@ Driver Peak: Drivers reported the highest satisfaction in July (4.33).
 Incentivize Drivers: Since driver ratings (4.3) lag behind customer ratings (4.7), investigate driver pain points in categories like Uber XL (4.27) to improve retention.
 
 Service Standardization: Leverage the operational model of Go Sedan (the highest-rated category) to train and improve the performance of other vehicle tiers.
-
+<img width="1167" height="652" alt="4" src="https://github.com/user-attachments/assets/68023a59-7fc6-4b67-9b9f-0329520a5aed" />
 Cancellation & Lost Opportunity Analysis
 The Cancellation Dashboard investigates why rides fail to complete. High cancellation rates directly impact revenue and user trust, making this the primary focus for operational improvements.
 
@@ -150,13 +147,7 @@ Volume vs. Value: The difference in total booking value is driven entirely by To
 
 3. The Quality Leader: Go Sedan
 Go Sedan holds the highest ratings from both customers (4.78) and drivers (4.32), indicating it is the most well-balanced service tier in terms of satisfaction and operational harmony.
-
+<img width="1158" height="652" alt="5" src="https://github.com/user-attachments/assets/8e9c3731-b447-4108-ac93-b09f382bd8e4" />
 Final Project Conclusion
 This dashboard provides a 360-degree view of Uber’s operations. By analyzing Revenue, Sentiment, Cancellations, and Vehicle Performance, we can conclude that while the business maintains high stability and customer satisfaction, there is a significant 38% revenue leak in the cancellation funnel that represents the primary area for future strategic optimization.
 
-Technical Skills Demonstrated
-Data Modeling: Creating relationships between revenue, distance, and ratings.
-
-UI/UX Design: Maintaining a consistent "Dark Mode" theme across 5 distinct pages for professional readability.
-
-Metric Engineering: Developing KPIs like Income Per Distance to evaluate fleet efficiency.
