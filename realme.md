@@ -1,4 +1,6 @@
-. Business Health (Overview)
+PROJECT OVERVIEW
+
+Business Health (Overview)
 The dashboard establishes a strong baseline with $52M in total revenue and a healthy $20.6 average income per KM. It highlights a stable business model where monthly revenue consistently hovers around the $4.2M–$4.5M range, supported by a peak booking volume of nearly 13,000 rides in January.
 
 2. Financial Ecosystem (Revenue)
