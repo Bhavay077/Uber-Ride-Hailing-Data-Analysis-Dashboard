@@ -1,4 +1,17 @@
+. Business Health (Overview)
+The dashboard establishes a strong baseline with $52M in total revenue and a healthy $20.6 average income per KM. It highlights a stable business model where monthly revenue consistently hovers around the $4.2M–$4.5M range, supported by a peak booking volume of nearly 13,000 rides in January.
 
+2. Financial Ecosystem (Revenue)
+The analysis reveals a heavy shift toward digital transformation. With 45% of transactions via UPI and nearly 67% total digital adoption (UPI + Wallet + Cards), the business benefits from reduced cash-handling friction. Revenue is highly resilient, showing minimal seasonality and consistent monthly performance.
+
+3. Marketplace Sentiment (Rating)
+A comparative study of the two-sided marketplace shows high customer satisfaction (4.7/5.0) but identifies a slight lag in driver satisfaction (4.3/5.0). The Go Sedan tier emerges as the "Gold Standard," leading in satisfaction scores for both user groups, while the Uber XL segment presents the most room for quality improvement.
+
+4. Operational Friction (Cancellation)
+This is the most critical area for strategic intervention. The dashboard identifies a 38% cancellation rate (57K failed bookings). Crucially, it distinguishes between user error and operational failure, noting that 44% of customer cancellations are due to driver-related issues (driver not moving or asking to cancel), representing a significant "revenue leak."
+
+5. Fleet Performance (Vehicle)
+The final pillar breaks down the fleet into seven distinct tiers. It identifies Auto ($12.88M) and Go Mini ($10.34M) as the primary revenue engines. The data reveals a standardized pricing strategy of $20.63/KM across all vehicle types, suggesting that growth is driven by volume and distance rather than premium pricing.
 
 Key Metrics (KPIs)
 The dashboard tracks four primary performance indicators:
